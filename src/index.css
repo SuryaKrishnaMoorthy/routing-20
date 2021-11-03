@@ -11,6 +11,11 @@ html {
 body {
   margin: 0;
   background-color: #e0e9f5;
+  text-align: center ;
+}
+
+body ul {
+  list-style: none;
 }
 
 main {
